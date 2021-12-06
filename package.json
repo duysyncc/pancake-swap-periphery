@@ -1,0 +1,20 @@
+{
+  "name": "pancake-swap-periphery",
+  "version": "1.0.0",
+  "description": "npm install truffle -g\r npm install -g ganache-cli\r npm install sol-merger -g",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "@uniswap/lib": "^4.0.1-alpha",
+    "@uniswap/sdk": "^3.0.3",
+    "@uniswap/v2-core": "^1.0.1"
+  }
+}
